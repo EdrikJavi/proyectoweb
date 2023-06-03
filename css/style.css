@@ -216,7 +216,7 @@ footer {
     font-size: 420%;
     margin: 1%;
     padding: 5%;
-    color:#black;
+    color:black;
 }
 .footer-second {
    border-top: 1px solid black;
@@ -225,6 +225,6 @@ footer {
 }
 .footer-second p, .footer-second a{
    text-align: center;
-   font-size:  : 160%;
+   font-size: 160%;
    line-height: 155%;
 }
